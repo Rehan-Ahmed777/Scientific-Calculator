@@ -1,4 +1,4 @@
-** Breif Description:**
+ Breif Description:
  The calculator can do basic operations like addition, subtraction, multiplication, and division. It also
  supports square roots, square, cube, x raised to y, factorial, percentage, and more.
  I used a blue-violet background color to make the calculator look nice and and aesthetically pleasing to

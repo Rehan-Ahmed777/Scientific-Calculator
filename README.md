@@ -8,4 +8,6 @@
  All the math operations are handled using built-in C# Math functions like Math.Sin, Math.Cos, Math.Sqrt
  etc.
  I tried to manage error cases like divide by zero or invalid input. If the input is not proper, the calculator
- won’t crash but instead will safely handle it.<img width="959" alt="Scientific Calculator" src="https://github.com/user-attachments/assets/87d26aca-c09a-4fd8-8a0c-bbe5d18a89ff" />
+ won’t crash but instead will safely handle it.
+ 
+ <img width="959" alt="Scientific Calculator" src="https://github.com/user-attachments/assets/87d26aca-c09a-4fd8-8a0c-bbe5d18a89ff" />
